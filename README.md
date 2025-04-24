@@ -29,9 +29,9 @@ This project helps users:
 -💾 Save tasks using localStorage
 -✏️ Edit existing tasks
 
----
-
 ## 💬 Final Note
 
 Thanks for checking out my project — **hope you like it!** 😊  
 Feel free to star ⭐ the repo if you found it helpful!
+
+---
